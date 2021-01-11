@@ -1,0 +1,12 @@
+# On considère que les fichiers .txt, .docx et .pdf seront ignorés
+
+*.txt
+*.docx
+*.pdf 
+
+# On considère que les répertoires uploads et vendors seront ignorés
+
+uploads/ 
+vendors/
+
+!uploads/README.md
